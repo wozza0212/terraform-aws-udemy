@@ -3,3 +3,4 @@
 *.tfstate.backup
 .DS_Store
 hashicorp-certified-terraform-associate/
+terraform-on-aws-ec2/
